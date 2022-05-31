@@ -3,7 +3,7 @@ import '../css/website.css';
 import {Link} from "react-router-dom"
 import Pdf from "../Leo-Zeng-software-resume.pdf"
 
-function Navbar() {
+const Navbar = () => {
     return (
         <nav>
             <div id="buttons">

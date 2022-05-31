@@ -2,7 +2,7 @@ import React from "react";
 import "../css/website.css"
 import "../css/other.css"
 
-function Other() {
+const Other = () => {
     return (
         <div>
             <div id="header">

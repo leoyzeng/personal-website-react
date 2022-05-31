@@ -1,7 +1,7 @@
 import React from "react";
 import "../css/website.css"
 
-function Home() {
+const Home = () => {
     return (
         <div id="introduction">
 
