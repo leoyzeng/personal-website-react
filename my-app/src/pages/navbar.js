@@ -19,6 +19,11 @@ const Navbar = () => {
                     Projects
                 </Link>
 
+
+                <Link to="/experience">
+                    Experience
+                </Link>
+
                 <Link to="/">
                     Home
                 </Link>
