@@ -49,7 +49,7 @@ const Projects = () => {
 
                 <div className="slide">
                     <div className="slide-image-container">
-                        <img className="slide-image" src="images/chef-boy0.png" alt="image"></img>
+                        <img className="slide-image" src="%PUBLIC_URL%/images/chef-boy0.png" alt="image"></img>
                             <button className="slide-button button-right" onClick={changeSlideDown}>&#10094;</button>
                             <button className="slide-button button-left" onClick={changeSlideUp}>&#10095;</button>
                     </div>
