@@ -6,7 +6,7 @@ const Home = () => {
         <div id="introduction">
 
             <div id="picture">
-                <img src="%PUBLIC_URL%/images/leo.png" alt="leo.jpg" width="300px" height="300px"/>
+                <img src="images/leo.png" alt="leo.jpg" width="300px" height="300px"/>
             </div>
 
             <div id="description">

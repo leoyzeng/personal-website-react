@@ -43,6 +43,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.0.9",
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "images": "^3.2.4"
   }
 }
