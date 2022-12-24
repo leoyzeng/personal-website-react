@@ -14,7 +14,9 @@ const Experience = () => {
                         <p>Plan Group</p>
                     </div>
                     <div className="company-logo">
-                        <img className="logo-image" src="images/plan-group-icon.png" alt="image"></img>
+                        <div className="company-logo-helper">
+                            <img className="logo-image" src="images/plan-group-logo.png" alt="image"></img>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -26,7 +28,19 @@ const Experience = () => {
                         <p>Collaborative Approach Therapy Service</p>
                     </div>
                     <div className="company-logo">
-                        <img className="logo-image" src="images/cats-icon.png" alt="image"></img>
+                        <img className="logo-image" src="images/cats-logo.png" alt="image"></img>
+                    </div>
+                </div>
+            </div>
+            <div className="container left">
+                <div className="content">
+                    <div className="text-wrapper">
+                        <h2>Jul-Aug 2019</h2>
+                        <p>Summer Camp Volunteering</p>
+                        <p>Plan Group</p>
+                    </div>
+                    <div className="company-logo">
+                        <img className="logo-image" src="images/richmondhill-logo.png" alt="image"></img>
                     </div>
                 </div>
             </div>
