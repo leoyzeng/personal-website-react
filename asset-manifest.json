@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/personal-website-react/static/css/main.f03506f7.css",
-    "main.js": "/personal-website-react/static/js/main.997a1fe2.js",
-    "static/js/787.28cb0dcd.chunk.js": "/personal-website-react/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Leo-Zeng-software-resume.pdf": "/personal-website-react/static/media/Leo-Zeng-software-resume.d5f961cf21df87740578.pdf",
-    "static/media/ColabThi.otf": "/personal-website-react/static/media/ColabThi.73c237da7016feee5681.otf",
-    "index.html": "/personal-website-react/index.html",
-    "main.f03506f7.css.map": "/personal-website-react/static/css/main.f03506f7.css.map",
-    "main.997a1fe2.js.map": "/personal-website-react/static/js/main.997a1fe2.js.map",
-    "787.28cb0dcd.chunk.js.map": "/personal-website-react/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.0a71832a.css",
+    "main.js": "/static/js/main.368a5d52.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Leo-Zeng-software-resume.pdf": "/static/media/Leo-Zeng-software-resume.d5f961cf21df87740578.pdf",
+    "static/media/ColabThi.otf": "/static/media/ColabThi.73c237da7016feee5681.otf",
+    "index.html": "/index.html",
+    "main.0a71832a.css.map": "/static/css/main.0a71832a.css.map",
+    "main.368a5d52.js.map": "/static/js/main.368a5d52.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f03506f7.css",
-    "static/js/main.997a1fe2.js"
+    "static/css/main.0a71832a.css",
+    "static/js/main.368a5d52.js"
   ]
 }
